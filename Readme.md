@@ -35,7 +35,7 @@ This repository contains the completed tasks for the Data Science & Analytics In
 
 **📊 Results**: Successfully analyzed 150 samples across 3 species with 4 features. Identified strong correlations and clear species separability.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1joDmmr2BqOR6Sz3L-oZi7j7Wvthau2wy?usp=sharing)
+**[Click here to open the Colab Notebook for Task 1](https://colab.research.google.com/drive/1joDmmr2BqOR6Sz3L-oZi7j7Wvthau2wy?usp=sharing)**
 
 ---
 
@@ -63,7 +63,7 @@ This repository contains the completed tasks for the Data Science & Analytics In
 - Decision Tree Accuracy: ~78%
 - Key Insight: Credit history is the strongest predictor of loan approval
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14tfeu9roqM7H_o7xQvmu-ZqHIjF5M-m9?usp=sharing)
+**[Click here to open the Colab Notebook for Task 2](https://colab.research.google.com/drive/14tfeu9roqM7H_o7xQvmu-ZqHIjF5M-m9?usp=sharing)**
 
 ---
 
@@ -94,7 +94,7 @@ This repository contains the completed tasks for the Data Science & Analytics In
 - **Top Churn Factors**: Age, Number of Products, Balance, Geography (Germany), Active Membership
 - Business Insight: Older customers in Germany with multiple products are at higher churn risk
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D-_eijJOL6Cgd15xs0WB5drVVpdIWEfi?usp=sharing)
+**[Click here to open the Colab Notebook for Task 3](https://colab.research.google.com/drive/1D-_eijJOL6Cgd15xs0WB5drVVpdIWEfi?usp=sharing)**
 
 ---
 
